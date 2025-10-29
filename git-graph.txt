@@ -1,0 +1,20 @@
+* 7d7192c (HEAD -> main, origin/main, origin/HEAD) docs: Add changelog
+| * 590a596 (origin/feature/another-feature) feat: Add test feature
+|/  
+* 682340e (tag: v1.1.0, tag: v1.0.0, feature/another-feature) docs: Update README
+* 80f33a4 docs: Add FAQ section
+| * 4fe71e3 (origin/feature/new-feature, feature/new-feature) feat: Add new feature
+|/  
+* 3f2b741 Ignore package-lock.json
+* 890927c Resolved conflicts and updated dependencies
+*   28d1a00 Resolved merge conflicts and completed merge
+|\  
+| * 02011a5 (instructor/dev) updating dev
+* | 278a98d docs: Update README
+* | dca6cf7 docs: Add FAQ section
+* | 0312c6f (instructor/main, instructor/HEAD, backup-main) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+| * d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+|/  
+* ae630eb Initial commit
